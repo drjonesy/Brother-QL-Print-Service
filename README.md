@@ -11,6 +11,7 @@ X refers to the series. Like 8, 7, 6, etc.
 - Python3
 - Pip
 - NodeJS
+- NPM
 
 
 ## Service Setup
